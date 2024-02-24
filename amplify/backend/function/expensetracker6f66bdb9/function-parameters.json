@@ -1,0 +1,21 @@
+{
+  "lambdaLayers": [],
+  "permissions": {
+    "auth": {
+      "expensetracker2d30422f": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "storage": {
+      "expense": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  }
+}

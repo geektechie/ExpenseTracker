@@ -1,0 +1,10 @@
+{
+  "resourceName": "expense",
+  "tableName": "expense",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

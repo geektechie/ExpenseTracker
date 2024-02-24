@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/": {
+      "name": "/",
+      "lambdaFunction": "expensetracker6f66bdb9",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
